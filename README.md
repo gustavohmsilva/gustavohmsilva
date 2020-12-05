@@ -22,7 +22,7 @@ I started with Borland Delphi / Object Pascal, Then migrated to C/Lua and after 
   - Retrocomputing
   - Investment
 
-A few other social networks you can find me in:   
+#### A few other social networks you can find me in:   
 :pencil: [Personal Website](https://gustavohmsilva.dev/)   
 :briefcase: [LinkedIn](https://www.linkedin.com/in/gustavohmsilva/)   
 :whale2: [Docker](https://hub.docker.com/u/gustavohmsilva)   

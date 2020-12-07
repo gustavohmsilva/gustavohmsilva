@@ -23,6 +23,8 @@ I started with Borland Delphi / Object Pascal, Then migrated to C/Lua and after 
   - Investment
 
 #### A few other social networks you can find me in:   
+:busts_in_silhouette: [Keybase](https://keybase.io/gushmsilva)   
+:speaking_head: [Telegram](https://t.me/gustavohmsilva)
 :pencil: [Personal Website](https://gustavohmsilva.dev/)   
 :briefcase: [LinkedIn](https://www.linkedin.com/in/gustavohmsilva/)   
 :whale2: [Docker](https://hub.docker.com/u/gustavohmsilva)   

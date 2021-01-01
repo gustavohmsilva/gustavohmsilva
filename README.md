@@ -1,7 +1,7 @@
 ### Howdy! Welcome to my :octocat:GitHub profile:octocat:   
 
 #### whoami:   
-I'm a Go backend developer living in Lisbon, Portugal :portugal:. I've been working in IT since 2008.   
+I'm a Go backend developer living in Lisbon, Portugal :portugal:. I've been working in IT since 2008 and I'm currently working at [@teamwork](https://github.com/Teamwork).   
 I started with Borland Delphi / Object Pascal, Then migrated to C/Lua and after it Mendix Low-Code Platform. Since the end of 2018 I've been dedicating all my free time to learning the Go programming language. I'm also a [YouTuber](https://www.youtube.com/gliderspace). I've covered the Lua programming language, from basic to Advanced for two years and now I cover Go programming.   
 
 #### Bonus info:   

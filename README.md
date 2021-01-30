@@ -5,9 +5,9 @@ I'm a Go backend developer living in Lisbon, Portugal :portugal:. I've been work
 I started with Borland Delphi / Object Pascal, Then migrated to C/Lua and after it Mendix Low-Code Platform. Since the end of 2018 I've been dedicating all my free time to learning the Go programming language. I'm also a [YouTuber](https://www.youtube.com/gliderspace). I've covered the Lua programming language, from basic to Advanced for two years and now I cover Go programming.   
 
 #### Bonus info:   
-- 🔭 I’m currently doing my first Open Source project, called [CollabYT](https://github.com/collabyt/Backend), it is a two person job, I'm doing the backend and Domain Modeling using [Go](https://golang.org) and [PostgreSQL](https://www.postgresql.org/), while [Luma Vitorino](https://github.com/lumaVitorino) works on the frontend stuff.   
+- 🔭 I’m currently doing my second Open Source project, called [TechCheck](https://github.com/gustavohmsilva/TechCheck). It is currently being implemented in Go using the Echo Framework. My first Open Source projetct, called [CollabYT](https://github.com/collabyt/Backend), is on hold while the Frontend development advances. A complete refactor is being planned tho. As he isn't ready for production environment yet.   
 
-- 🤔 I’m looking for help with my project, [CollabYT](https://github.com/collabyt/Backend). Not as much in the codebase, but with mentoring on how to proceed.   
+- 🤔 I’m looking for help with my project [TechCheck](https://github.com/gustavohmsilva/TechCheck)! If you are a Frontend developer interested in having a go with it, let me know and I'll transfer [TechCheck](https://github.com/gustavohmsilva/TechCheck) for an organization account and include you as part of the project.   
 
 - 🌱 I’m currently learning:
   - [Go](https://golang.org)
@@ -20,7 +20,7 @@ I started with Borland Delphi / Object Pascal, Then migrated to C/Lua and after 
   - Archery
   - Brewing
   - Retrocomputing
-  - Investment
+  - Investment (#stonks #GME #wallStreetBets)
 
 #### A few other social networks you can find me in:   
 :busts_in_silhouette: [Keybase](https://keybase.io/gushmsilva)   

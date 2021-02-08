@@ -23,6 +23,7 @@ I started with Borland Delphi / Object Pascal, Then migrated to C/Lua and after 
   - Investment (#stonks #GME #wallStreetBets)
 
 #### A few other social networks you can find me in:   
+:elephant: [Mastodon](https://mastodon.technology/@gustavohmsilva)   
 :busts_in_silhouette: [Keybase](https://keybase.io/gushmsilva)   
 :speaking_head: [Telegram](https://t.me/gustavohmsilva)   
 :pencil: [Personal Website](https://gustavohmsilva.dev/)   

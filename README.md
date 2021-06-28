@@ -1,10 +1,11 @@
 ### Welcome to my :octocat:GitHub profile:octocat:   
 
 #### Who am I:   
-I'm a Go and Lua developer living in Lisbon, Portugal :portugal:. I've been working in IT since 2008 and I'm currently working at [@teamwork](https://github.com/Teamwork).   
-I started with Borland Delphi / Object Pascal, Then migrated to Lua and since the end of 2019 I've been dedicating all my free time learning the Go programming language. I used to have a small [YouTube channel](https://www.youtube.com/gliderspace) where I covered the Lua programming language, from basic to Advanced for two years and after that I did a lot of videos covering the Go programming language.   
+I'm a Go and Lua developer living in Lisbon, Portugal :portugal:. I've been working with Programming since 2008 and I'm currently building amazing things at [@Mindera](https://github.com/Mindera).   
+I started with Borland Delphi / Object Pascal, then migrated to Lua and since the end of 2019 I've been dedicating all my time to the Go programming language (golang). I have a small [YouTube channel](https://www.youtube.com/gliderspace) where I covered Lua programming language, from basic to Advanced for two years and now I do occasional videos covering Go.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohmsilva&hide=TeX,javascript,shell&layout=compact&theme=material-palenight)
+Due to my work on YouTube, I've been awarded by [EPIC](https://www.epicgames.com/) with a Grant from their [EPIC Mega Grants](https://www.unrealengine.com/en-US/megagrants) program in 2021.
+
 
 - 🌱 I’m currently learning:
   - [Golang](https://golang.org)

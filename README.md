@@ -13,13 +13,12 @@ Due to my work on YouTube, I've been awarded by [EPIC](https://www.epicgames.com
   - [RabbitMQ](https://www.rabbitmq.com/)
   - [Kubernetes](https://kubernetes.io/pt/)
   - [Docker](https://www.docker.com/)
-  - [Solidity](https://soliditylang.org/)
 
 - ⚡ Fun facts. I dabble in a lot of crazy hobbies, like:
-  - Archery
   - Brewing
   - Retrocomputing
-  - Crypto (#Ethereum #Cardano)
+  - Double Bass
+  - Competitive Magic the Gathering (commander format)
 
 #### A few other social networks you can find me in:   
 :elephant: [Mastodon](https://mastodon.technology/@gustavohmsilva)   

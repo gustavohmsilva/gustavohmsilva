@@ -21,10 +21,7 @@ Due to my work on YouTube, I've been awarded by [EPIC](https://www.epicgames.com
   - Competitive Magic the Gathering (commander format)
 
 #### A few other social networks you can find me in:   
-:elephant: [Mastodon](https://mastodon.technology/@gustavohmsilva)   
-:busts_in_silhouette: [Keybase](https://keybase.io/gushmsilva)   
 :speaking_head: [Telegram](https://t.me/gustavohmsilva)   
-:pencil: [Personal Website](https://gustavohmsilva.dev/)   
+:pencil: [Personal Website (if my personal Server is live, as I self-host my website)](https://gustavohmsilva.xyz/)   
 :briefcase: [LinkedIn](https://www.linkedin.com/in/gustavohmsilva/)   
-:whale2: [Docker](https://hub.docker.com/u/gustavohmsilva)   
 :tv: [YouTube](https://www.youtube.com/gliderspace) | [Odysee](https://odysee.com/@gliderspace:d)
